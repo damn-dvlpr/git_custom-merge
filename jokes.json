@@ -23,5 +23,10 @@
             "q": "How does a sysadmin keep a fire going?",
             "a": "They rotate the logs.",
             "form": "qa"
-    }
+    },
+    "5": {
+		"q": "An Agent died unexpectedly. How was the crime solved?",
+		"a": "By looking at the Stack Trace.",
+		"form": "qa"
+	}
 }
