@@ -38,5 +38,10 @@
 		"q": "An Agent died unexpectedly. How was the crime solved?",
 		"a": "By looking at the Stack Trace.",
 		"form": "qa"
+	},
+	"8": {
+		"q": "What did XHR say to AJAX when it thought it was being a Mean Girl?",
+		"a": "Stop trying to make fetch happen!",
+		"form": "qa"
 	}
 }
