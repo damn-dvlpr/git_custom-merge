@@ -18,5 +18,10 @@
 		"q": "Why did the security conscious engineer refuse to pay their dinner bill?",
 		"a": "Because they could not verify the checksum.",
 		"form": "qa"
+    },
+    "4": {
+            "q": "How does a sysadmin keep a fire going?",
+            "a": "They rotate the logs.",
+            "form": "qa"
     }
 }
