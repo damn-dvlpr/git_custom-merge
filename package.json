@@ -1,0 +1,23 @@
+{
+  "name": "git_custom-merge",
+  "version": "1.0.0",
+  "description": "This is to test cutom git merger tool, to automatically avoid conflicts. -Line added by naimish",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "git-json-merge": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damn-dvlpr/git_custom-merge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damn-dvlpr/git_custom-merge/issues"
+  },
+  "homepage": "https://github.com/damn-dvlpr/git_custom-merge#readme"
+}
