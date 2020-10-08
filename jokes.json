@@ -33,5 +33,10 @@
 		"q": "Where did the API go to eat?",
 		"a": "To the RESTaurant",
 		"form": "qa"
+	},
+	"7": {
+		"q": "An Agent died unexpectedly. How was the crime solved?",
+		"a": "By looking at the Stack Trace.",
+		"form": "qa"
 	}
 }
