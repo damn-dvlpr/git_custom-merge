@@ -18,5 +18,10 @@
 		"q": "Why did the security conscious engineer refuse to pay their dinner bill?",
 		"a": "Because they could not verify the checksum.",
 		"form": "qa"
-    }
+	},
+	"4": {
+		"q": "Why do all HTML emails get blocked?",
+		"a": "Because they are all <code>span</code>",
+		"form": "qa"
+	}
 }
