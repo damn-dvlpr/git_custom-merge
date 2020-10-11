@@ -35,11 +35,24 @@
 		"form": "qa"
 	},
 	"7": {
-		"q": "An Agent died unexpectedly. How was the crime solved?",
-		"a": "By looking at the Stack Trace.",
+		"q": "Why couldn't the blonde add 10 + 5 on a calculator?",
+		"a": "She couldn't find the "10" button.",
 		"form": "qa"
 	},
-	"8": {
+	"8" : {
+		
+		"q": " What do computers eat for a snack?",
+		"a": "Microchips.",
+		"form": "qa"
+	},
+	"9" : {
+		
+		"q": "Sweetie, make a Christmas wish.",
+		"a": "I wish that Santa will send some clothes to those naked girls in papa's computer.",
+		"form": "qa"
+	},
+	
+	"10": {
 		"q": "Why couldn't the React component understand the joke?",
 		"a": "Because it didn't get the context.",
 		"form": "qa"
