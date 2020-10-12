@@ -60,5 +60,10 @@
 	"11": {"q": "How do you get the code for the bank vault?",
 		"a": "You checkout their branch.",
 		"form": "qa"
-}
+},
+	"12" : {
+		"q": "How did the developer announce their engagement?",
+		"a": "They <code>return</code>ed <code>true</code>!",
+		"form": "qa"
+	}
 }
