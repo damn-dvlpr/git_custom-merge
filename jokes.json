@@ -65,5 +65,10 @@
 		"q": "How did the developer announce their engagement?",
 		"a": "They <code>return</code>ed <code>true</code>!",
 		"form": "qa"
+	},
+	"8": {
+		"q": "What did XHR say to AJAX when it thought it was being a Mean Girl?",
+		"a": "Stop trying to make fetch happen!",
+		"form": "qa"
 	}
 }
