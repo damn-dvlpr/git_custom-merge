@@ -66,9 +66,13 @@
 		"a": "They <code>return</code>ed <code>true</code>!",
 		"form": "qa"
 	},
-	"8": {
+	"13": {
 		"q": "What did XHR say to AJAX when it thought it was being a Mean Girl?",
 		"a": "Stop trying to make fetch happen!",
 		"form": "qa"
-	}
+	},
+	"14" : {
+		"q": "Yo momma so fat when she registered for MySpace there was no space left.",
+		"a": "LOL",
+		"form": "qa"
 }
