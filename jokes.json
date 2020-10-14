@@ -1,4 +1,9 @@
 {
+	"-1": {
+		"q": "lol",
+		"a": "lool",
+		"form": "qa"
+	},
 	"0": {
 		"q": "Relationship status?",
 		"a": "I'll leave the relations to the database.",
@@ -23,13 +28,13 @@
 		"q": "Why do all HTML emails get blocked?",
 		"a": "Because they are all <code>span</code>",
 		"form": "qa"
-  },
-    "5": {
-            "q": "How does a sysadmin keep a fire going?",
-            "a": "They rotate the logs.",
-            "form": "qa"
-    },
-    "6": {
+	},
+	"5": {
+		"q": "How does a sysadmin keep a fire going?",
+		"a": "They rotate the logs.",
+		"form": "qa"
+	},
+	"6": {
 		"q": "Where did the API go to eat?",
 		"a": "To the RESTaurant",
 		"form": "qa"
@@ -39,29 +44,27 @@
 		"a": "She couldn't find the "10" button.",
 		"form": "qa"
 	},
-	"8" : {
-		
+	"8": {
 		"q": " What do computers eat for a snack?",
 		"a": "Microchips.",
 		"form": "qa"
 	},
-	"9" : {
-		
+	"9": {
 		"q": "Sweetie, make a Christmas wish.",
 		"a": "I wish that Santa will send some clothes to those naked girls in papa's computer.",
 		"form": "qa"
 	},
-	
 	"10": {
 		"q": "Why couldn't the React component understand the joke?",
 		"a": "Because it didn't get the context.",
 		"form": "qa"
 	},
-	"11": {"q": "How do you get the code for the bank vault?",
+	"11": {
+		"q": "How do you get the code for the bank vault?",
 		"a": "You checkout their branch.",
 		"form": "qa"
-},
-	"12" : {
+	},
+	"12": {
 		"q": "How did the developer announce their engagement?",
 		"a": "They <code>return</code>ed <code>true</code>!",
 		"form": "qa"
@@ -71,8 +74,8 @@
 		"a": "Stop trying to make fetch happen!",
 		"form": "qa"
 	},
-	"14" : {
+	"14": {
 		"q": "Yo momma so fat when she registered for MySpace there was no space left.",
 		"a": "LOL",
 		"form": "qa"
-}
+	}
