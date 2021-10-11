@@ -1,0 +1,17 @@
+{
+     "users":
+     [{
+	"avatar_url":"",
+	"authentication":
+	{
+		"provider":["password","twitter","yahoo","google"]
+	},
+	"name":"Icognito",
+	"guid":null,
+	"title":null,
+	"anonymous":false,
+	"id":1,
+	"email_confirmed":true,
+	"email":"user@example.com"
+      }, ..... ]
+}
