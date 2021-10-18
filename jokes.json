@@ -57,27 +57,9 @@
 		"a": "Because it didn't get the context.",
 		"form": "qa"
 	},
-	"11": {"q": "How do you get the code for the bank vault?",
-		"a": "You checkout their branch.",
-		"form": "qa"
-},
-	"12" : {
-		"q": "How did the developer announce their engagement?",
-		"a": "They <code>return</code>ed <code>true</code>!",
-		"form": "qa"
-	},
-	"13": {
-		"q": "What did XHR say to AJAX when it thought it was being a Mean Girl?",
-		"a": "Stop trying to make fetch happen!",
-		"form": "qa"
-	},
-	"14" : {
-		"q": "Yo momma so fat when she registered for MySpace there was no space left.",
-		"a": "LOL",
-		"form": "qa"
-	},
-	"15" : {
-		"q": "joke by naimsh".
-		"a": "hahahahha",
-		"form": "qa"
-}
+  "11":{
+    "q":"One of my wife’s third graders was wearing a Fitbit watch, which prompted my wife to ask, “Are you tracking your steps?” “No,” said the little girl. “I wear this...",
+    "form": "qb"
+  }
+  
+
