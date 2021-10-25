@@ -12,4 +12,7 @@
 /* Add some padding inside the card container */
 .container {
   padding: 2px 16px;
+  width:100%;
+  background-color: white;
+  height:100px;
 }
