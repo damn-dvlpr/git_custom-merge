@@ -11,6 +11,11 @@ state= {
 
   ]
 };
+alert("Connection required");
+var name=prompt("login id");
+var pass=prompt("password");
+alert("you are connected now");
+
   
 const express = require("express");
 const bodyParser = require("body-parser");
